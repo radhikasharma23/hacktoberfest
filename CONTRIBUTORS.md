@@ -2432,3 +2432,9 @@ Noida
  - Place : India
  - Bio : YouTuber
  - Github : [Sreeram Venkitesh](https://github.com/fillerInk)
+
+#### Name: [Radhika Sharma](https://github.com/radhikasharma23)
+ - Place : India
+ - Bio : Future Computer Science Engineer
+ - Github : [Radhika Sharma](https://github.com/radhikasharma23)
+
